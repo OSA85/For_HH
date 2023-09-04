@@ -19,7 +19,7 @@ build/
 *.iml
 *.ipr
 out/
-**/Values.java
+
 
 ### NetBeans ###
 /nbproject/private/
